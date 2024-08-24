@@ -4,7 +4,7 @@ import { Button } from '@mantine/core';
 export function App() {
   return (
     <MantineShared>
-      <Button>Hello World</Button>
+      <Button>Hey</Button>
     </MantineShared>
   );
 }
