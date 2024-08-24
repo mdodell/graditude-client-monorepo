@@ -1,0 +1,9 @@
+{
+  "name": "graditude-marketing",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "graditude-marketing",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project graditude-marketing --web",
+  "targets": {}
+}

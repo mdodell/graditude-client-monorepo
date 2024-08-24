@@ -1,0 +1,7 @@
+.mantine-Button-root {
+  background-color: red;
+}
+
+body {
+  background-color: var(--mantine-color-red-filled);
+}

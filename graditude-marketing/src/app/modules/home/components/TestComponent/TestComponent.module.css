@@ -1,0 +1,7 @@
+.button {
+  background-color: pink;
+
+  @mixin smaller-than $mantine-breakpoint-sm {
+    background-color: purple;
+  }
+}

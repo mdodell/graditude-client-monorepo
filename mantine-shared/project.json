@@ -1,0 +1,9 @@
+{
+  "name": "mantine-shared",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "mantine-shared/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project mantine-shared --web",
+  "targets": {}
+}
